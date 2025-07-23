@@ -346,6 +346,435 @@ The Whisk interface consists of:
 
 ---
 
+## 🎯 Master Prompting Templates & Formulas
+
+### 📋 The Ultimate Whisk Prompt Formula
+
+Based on Google's official Veo documentation and verified testing, here's the proven formula for maximum results:
+
+```markdown
+🎯 SUBJECT + 🌍 CONTEXT + ⚡ ACTION + 🎨 STYLE + 📹 CAMERA + 🖼️ COMPOSITION + 🌟 AMBIANCE
+```
+
+#### **Detailed Breakdown:**
+
+**1. 🎯 SUBJECT** (Required)
+```
+Who/What: The main focus of your scene
+Examples:
+• "A bearded man in flannel shirt and weathered jeans"
+• "A tiny mouse with oversized glasses"
+• "A vintage rotary phone mounted on brick wall"
+• "An enormous glacial cavern with frozen candy figures"
+```
+
+**2. 🌍 CONTEXT** (Required)
+```
+Where: The environment and setting
+Examples:
+• "sits cross-legged beside a flickering campfire in a quiet forest clearing"
+• "in a cozy forest den with glowing mushrooms"
+• "bathed in eerie glow of green neon sign on gritty street"
+• "on a grassy cliff overlooking sandy beach with crashing waves"
+```
+
+**3. ⚡ ACTION** (Highly Recommended)
+```
+What's Happening: Movement and activities
+Examples:
+• "picks up the phone with desperate urgency"
+• "reading a book by mushroom light"
+• "trudging through center with helmet lights casting beams"
+• "slowly loses shape, dripping down the cone"
+```
+
+**4. 🎨 STYLE** (Recommended)
+```
+Visual Aesthetic: Overall look and feel
+Options:
+• Cinematic realism
+• Animated cartoon style
+• Stop-motion animation
+• Voxel/pixel art style
+• Film noir aesthetic
+• Studio Ghibli style
+• Documentary style
+• Horror film atmosphere
+```
+
+**5. 📹 CAMERA** (Optional but Powerful)
+```
+Camera Movement and Position:
+• "Aerial shot" / "Eye-level view" / "Low-angle shot"
+• "Dolly zoom from far blur to close-up"
+• "Wide, slow-panning shot"
+• "Shaky handheld camera"
+• "Tracking shot following subject"
+• "Time-lapse perspective"
+```
+
+**6. 🖼️ COMPOSITION** (Optional)
+```
+How the Shot is Framed:
+• "Wide shot capturing full scene"
+• "Close-up focusing on facial expressions"
+• "Extreme close-up on hands/objects"
+• "Medium shot showing upper body"
+• "Over-the-shoulder perspective"
+```
+
+**7. 🌟 AMBIANCE** (Optional)
+```
+Mood, Lighting, and Atmosphere:
+• "bathed in warm, golden light of sunset"
+• "eerie twilight with pale cyan light filtering from above"
+• "under clear blue sky with vibrant backdrop"
+• "warm tones creating cozy feeling"
+• "dramatic shadows and neon colors"
+```
+
+---
+
+### 🏗️ Professional Template Library
+
+#### **Template 1: Cinematic Drama**
+```markdown
+📝 FORMULA:
+[Camera Movement] [Shot Type] of [Detailed Subject] [Action] in [Atmospheric Context], [Lighting Description]. [Additional Details] [Emotional Tone].
+
+🎬 EXAMPLE:
+A shaky dolly zoom goes from far away blur to close-up cinematic shot of a desperate man in weathered green trench coat as he picks up a rotary phone mounted on gritty brick wall, bathed in eerie glow of green neon sign. The zoom reveals tension and desperation etched on his face as he struggles to talk. Shallow depth of field focuses on his furrowed brow and black rotary phone, blurring background into sea of neon colors and indistinct shadows, creating sense of urgency and isolation.
+
+🎯 USE FOR: Drama, thriller, emotional scenes, character studies
+```
+
+#### **Template 2: Whimsical Animation**
+```markdown
+📝 FORMULA:
+An animated [Shot Type] of [Cute/Small Subject] [Gentle Action] [Magical/Cozy Setting] [Warm Lighting]. [Charming Details].
+
+🎬 EXAMPLE:
+An animated shot of a tiny mouse with oversized glasses, reading a book by the light of a glowing mushroom in a cozy forest den. Soft, warm light emanates from the mushroom, casting gentle shadows on moss-covered walls while the mouse's whiskers twitch with concentration.
+
+🎯 USE FOR: Children's content, educational material, heartwarming stories
+```
+
+#### **Template 3: Epic Landscape**
+```markdown
+📝 FORMULA:
+[Aerial/Wide] shot of [Dramatic Location] where [Natural Action] [Prominent Features], bathed in [Golden Hour/Atmospheric Lighting], capturing [Emotional Quality] of [Geographic Description].
+
+🎬 EXAMPLE:
+Aerial shot of a grassy cliff onto a sandy beach where waves crash against the shore, a prominent sea stack rises from the ocean near the beach, bathed in the warm, golden light of either sunrise or sunset, capturing the dramatic elevation change and the serene beauty of the Pacific coastline.
+
+🎯 USE FOR: Nature documentaries, travel content, establishing shots
+```
+
+#### **Template 4: Abstract/Artistic**
+```markdown
+📝 FORMULA:
+Time-lapse of [Stylized Subject] [Transformation Process] under [Simple Background]. [Focus Description] highlighting [Visual Change] as [Specific Details], creating [Artistic Effect] against [Color Description].
+
+🎬 EXAMPLE:
+Time-lapse of a voxel-style ice cream melting under a clear blue sky. The pink, grey, and white scoops slowly lose their shape, dripping down the yellow, blocky cone held by a large, voxel hand with blue sleeve. Focus on the melting process, highlighting the changing texture and form of the voxel elements as the ice cream deforms and drips, creating a colorful, pixelated melt against the vibrant blue backdrop.
+
+🎯 USE FOR: Abstract art, experimental content, stylized animations
+```
+
+#### **Template 5: Action/Adventure**
+```markdown
+📝 FORMULA:
+[Dynamic Camera] of [Multiple Subjects] [Action Sequence] through [Challenging Environment], their [Equipment/Clothing] [Environmental Interaction]. [Scale Description] and [Atmosphere].
+
+🎬 EXAMPLE:
+A wide, slow-panning shot of an enormous glacial cavern, bathed in eerie twilight. Pale cyan light filters from above, illuminating frozen candy figures within the ice walls. Two figures in white exosuits, their helmet lights casting beams, trudge through the center. Capture the cavern's scale and stillness.
+
+🎯 USE FOR: Adventure content, sci-fi scenes, exploration narratives
+```
+
+---
+
+### 🎬 Animation Prompting Mastery
+
+#### **Motion Categories & Templates**
+
+##### **🚶 Character Movement**
+```markdown
+✨ BASIC ACTIONS:
+• "The character is walking slowly"
+• "The person turns their head to look around"
+• "The figure gestures with their hands while speaking"
+• "The character sits down and stands up"
+
+🎭 EMOTIONAL ACTIONS:
+• "The character smiles and waves enthusiastically"
+• "The person looks around nervously, fidgeting"
+• "The figure dances joyfully to unheard music"
+• "The character reaches out to touch something gently"
+
+🏃 DYNAMIC ACTIONS:
+• "The character runs through the scene"
+• "The person jumps over an obstacle"
+• "The figure spins around in excitement"
+• "The character climbs up a steep surface"
+```
+
+##### **🌿 Environmental Effects**
+```markdown
+🍃 NATURAL MOVEMENT:
+• "Gentle wind blowing through the leaves"
+• "Waves lapping against the shore rhythmically"
+• "Clouds drifting slowly across the sky"
+• "Grass swaying in the breeze"
+
+🔥 ATMOSPHERIC EFFECTS:
+• "Flickering campfire casting dancing shadows"
+• "Steam rising from hot coffee cup"
+• "Snowflakes falling gently from above"
+• "Mist rolling across the landscape"
+
+💧 WATER EFFECTS:
+• "Rain drops creating ripples in puddles"
+• "Waterfall cascading down rocks"
+• "Bubbles floating upward through water"
+• "Ocean waves crashing against cliffs"
+```
+
+##### **📹 Camera Movements**
+```markdown
+🎥 BASIC CAMERA MOVES:
+• "Camera slowly zooming in on subject"
+• "Smooth pan from left to right"
+• "Camera pulls back to reveal full scene"
+• "Gentle tilt up to show sky"
+
+🎬 CINEMATIC MOVES:
+• "Dolly shot following the character"
+• "Crane shot rising above the action"
+• "Tracking shot moving alongside subject"
+• "Orbit shot circling around the focus"
+
+📱 MODERN STYLES:
+• "Handheld camera with slight shake"
+• "Drone shot ascending from ground level"
+• "Security camera static angle"
+• "Phone camera vertical orientation"
+```
+
+---
+
+### 🎨 Style-Specific Prompting Guides
+
+#### **🎭 Animation Styles**
+
+##### **Studio Ghibli Style**
+```markdown
+📝 TEMPLATE:
+"In the style of Studio Ghibli animation: [Subject] [Action] in [Magical/Natural Setting]. [Soft lighting] with [Detailed background elements]. [Emotional atmosphere] with [Color palette description]."
+
+🎬 EXAMPLE:
+"In the style of Studio Ghibli animation: A young girl with flowing hair feeds magical forest creatures beside a crystal-clear stream. Dappled sunlight filters through ancient trees, illuminating floating pollen and tiny spirits. Warm, nostalgic atmosphere with rich greens and golden highlights."
+```
+
+##### **Pixar Style**
+```markdown
+📝 TEMPLATE:
+"In Pixar animation style: [Expressive character] [Exaggerated action] in [Colorful environment]. [Dynamic lighting] emphasizing [Emotional moment]. [Smooth, polished rendering] with [Vibrant colors]."
+
+🎬 EXAMPLE:
+"In Pixar animation style: A round, cheerful robot with large expressive eyes discovers a small plant growing in metallic debris. Warm sunset lighting emphasizes the wonder on the robot's face. Smooth, polished rendering with vibrant oranges and soft blues."
+```
+
+##### **Stop-Motion Style**
+```markdown
+📝 TEMPLATE:
+"In stop-motion animation style: [Textured character] [Deliberate movement] in [Handcrafted environment]. [Practical lighting] with [Visible texture details]. [Slightly jerky motion] characteristic of frame-by-frame animation."
+
+🎬 EXAMPLE:
+"In stop-motion animation style: A felt puppet character with button eyes carefully arranges miniature furniture in a dollhouse room. Warm practical lighting reveals fabric textures and handmade details. Slightly jerky motion characteristic of frame-by-frame animation."
+```
+
+#### **🎥 Cinematic Styles**
+
+##### **Film Noir**
+```markdown
+📝 TEMPLATE:
+"In film noir style: [Mysterious character] [Dramatic action] in [Urban nighttime setting]. [High contrast lighting] with [Deep shadows] and [Dramatic angles]. [Black and white or desaturated colors] creating [Moody atmosphere]."
+
+🎬 EXAMPLE:
+"In film noir style: A detective in a trench coat walks down a rain-soaked alley under flickering streetlights. High contrast lighting creates deep shadows across brick walls. Black and white cinematography with dramatic low-angle shots creating mysterious, suspenseful atmosphere."
+```
+
+##### **Horror Film**
+```markdown
+📝 TEMPLATE:
+"In horror film style: [Vulnerable subject] [Tense action] in [Ominous environment]. [Dramatic lighting] with [Unsettling shadows] and [Eerie atmosphere]. [Desaturated colors] with [Strategic darkness] building [Psychological tension]."
+
+🎬 EXAMPLE:
+"In horror film style: A person slowly opens a creaking door in an abandoned house. Flickering candlelight casts unsettling shadows on peeling wallpaper. Desaturated colors with strategic darkness building psychological tension and dread."
+```
+
+---
+
+### 🔧 Advanced Prompting Techniques
+
+#### **🎯 Negative Prompting Strategy**
+
+**❌ WRONG WAY:**
+```
+"No walls, don't show buildings, no people in background"
+```
+
+**✅ RIGHT WAY:**
+```
+"Open landscape, natural environment, isolated subject"
+```
+
+**📋 NEGATIVE PROMPT TEMPLATES:**
+```markdown
+🚫 TO AVOID CLUTTER:
+Instead of: "No messy background"
+Use: "Clean, minimal background, simple composition"
+
+🚫 TO AVOID UNWANTED OBJECTS:
+Instead of: "Don't show cars or buildings"
+Use: "Natural landscape, forest setting, organic environment"
+
+🚫 TO AVOID POOR QUALITY:
+Instead of: "No blurry or low quality"
+Use: "Sharp focus, high detail, professional cinematography"
+```
+
+#### **🎪 Multi-Subject Coordination**
+
+**📝 TEMPLATE FOR 2-3 SUBJECTS:**
+```markdown
+"[Subject 1] and [Subject 2] [Shared Action] in [Common Environment]. [Subject 1] [Specific Action] while [Subject 2] [Different Action]. [Interaction Description] showing [Relationship Dynamic]."
+
+🎬 EXAMPLE:
+"A cartoon dinosaur and friendly robot share tea in a sunny park. The dinosaur carefully holds a tiny teacup with clawed hands while the robot pours from a colorful teapot. Their interaction shows playful friendship as they laugh together under blooming cherry trees."
+```
+
+#### **🎨 Style Mixing Techniques**
+
+**📝 HYBRID STYLE TEMPLATE:**
+```markdown
+"Combining [Style 1] with [Style 2]: [Subject] [Action] in [Setting]. [Style 1 characteristics] blended with [Style 2 elements] creating [Unique aesthetic description]."
+
+🎬 EXAMPLE:
+"Combining Studio Ghibli with cyberpunk: A young engineer tends to glowing digital flowers in a high-tech garden. Soft, hand-drawn character animation blended with neon lighting and holographic elements creating a magical-technological fusion aesthetic."
+```
+
+---
+
+### 📊 Prompt Optimization Checklist
+
+#### **✅ Before You Generate:**
+
+```markdown
+🎯 SUBJECT CHECK:
+□ Is the main subject clearly defined?
+□ Are physical details specific enough?
+□ Is the subject's role/purpose clear?
+
+🌍 CONTEXT CHECK:
+□ Is the environment well-described?
+□ Does the setting match the subject?
+□ Are spatial relationships clear?
+
+⚡ ACTION CHECK:
+□ Is the movement/action specific?
+□ Does the action fit the character?
+□ Is the timing/pace indicated?
+
+🎨 STYLE CHECK:
+□ Is the visual style clearly specified?
+□ Are style references consistent?
+□ Does the style match the content?
+
+📹 TECHNICAL CHECK:
+□ Is camera movement specified if needed?
+□ Is composition/framing mentioned?
+□ Are lighting/mood elements included?
+```
+
+#### **🔄 Iteration Strategy:**
+
+```markdown
+1️⃣ START SIMPLE:
+Generate with basic Subject + Action + Context
+
+2️⃣ ADD STYLE:
+Regenerate with specific style references
+
+3️⃣ REFINE DETAILS:
+Edit AI-generated prompt for precision
+
+4️⃣ ENHANCE MOTION:
+Add specific animation prompts for video
+
+5️⃣ POLISH:
+Fine-tune lighting, mood, and atmosphere
+```
+
+---
+
+### 🎬 From Static to Amazing Animation Workflow
+
+#### **🏗️ The Complete Pipeline:**
+
+```markdown
+📸 STEP 1: PERFECT YOUR STATIC IMAGE
+🎯 Subject: Choose compelling, animation-ready subject
+🌍 Scene: Select environment that supports movement
+🎨 Style: Pick style that animates well (avoid overly complex styles)
+💡 Composition: Frame for motion (leave space for movement)
+
+🎬 STEP 2: PLAN YOUR ANIMATION
+⚡ Motion Type: Character movement, environmental effects, or camera motion?
+⏱️ Duration: Plan for 8-second maximum
+🎭 Emotion: What feeling should the motion convey?
+🎯 Focus: What should viewers watch?
+
+🎨 STEP 3: CRAFT ANIMATION PROMPT
+📝 Use Template: "[Subject] [specific motion] [environmental interaction] [camera behavior]"
+🎪 Example: "The character walks slowly forward while gentle wind blows their hair, camera follows with smooth tracking shot"
+
+🚀 STEP 4: GENERATE AND REFINE
+▶️ Generate first version
+👀 Analyze results
+✏️ Refine prompt based on output
+🔄 Iterate until perfect
+```
+
+#### **🎯 Animation-Specific Prompt Templates:**
+
+##### **Character Animation Template**
+```markdown
+"[Character description] [primary action] [secondary details] [environmental interaction] [emotional state] [camera instruction]"
+
+Example:
+"The robot character waves enthusiastically with both arms while small LED lights on its chest pulse with excitement, standing in the sunny park as leaves gently fall around it, camera holds steady medium shot"
+```
+
+##### **Environmental Animation Template**
+```markdown
+"[Static scene description] with [natural movement] [atmospheric effects] [lighting changes] [camera behavior]"
+
+Example:
+"The cozy coffee shop interior with steam rising from cups on tables, warm light flickering from fireplace, rain drops creating patterns on windows, camera slowly pans across the scene"
+```
+
+##### **Abstract Animation Template**
+```markdown
+"[Artistic subject] [transformation process] [visual effects] [color changes] [rhythm/timing] [perspective]"
+
+Example:
+"The geometric shapes morph and rotate in synchronized patterns, colors shifting from cool blues to warm oranges, pulsing with musical rhythm, viewed from slowly rotating perspective"
+```
+
+---
+
 ## Advanced Techniques
 
 ### Multiple Prompting Methods
