@@ -87,11 +87,13 @@ The Whisk interface consists of:
 - **Tips**: Style references strongly influence the final look
 
 ### Basic Workflow
-1. **Upload References**: Drag and drop images into Subject, Scene, and/or Style boxes
-2. **Add Text Guidance** (Optional): Use the prompt box for additional instructions
-3. **Set Aspect Ratio**: Choose from available ratios for your intended use
-4. **Generate**: Click generate and wait for results
-5. **Refine**: Use the refine button for adjustments if needed
+1. **Prepare**: Upload visual elements or use "inspire me"/"roll the dice" features
+2. **Explore**: Select assets (1+ subjects, 1 scene, 1 style) for creative remixing
+3. **Add Guidance** (Optional): Include light text prompts for specific details
+4. **Generate**: Click generate and review Whisk's creative combinations
+5. **Refine**: Enter refine mode for smaller adjustments that stay close to original
+6. **Diagnose**: Click prompt icon to view and edit underlying AI-generated descriptions
+7. **Share**: Generate share links for collaboration and community feedback
 
 ---
 
@@ -826,8 +828,10 @@ Available in 70+ countries including US, Canada, Australia, Japan, and many othe
 ### Animation Tips
 - **Motion Prompts**: "The character is walking", "Gentle wind blowing", "Camera slowly zooming in"
 - **Limitations**: 8-second maximum duration
-- **Credits**: Uses separate animation credits (up to 100 videos/month)
+- **Free Tier**: 10 free videos per month for users in supported countries
+- **Credits**: Uses separate animation credits (subscription increases limits)
 - **Quality**: Maintains high visual fidelity from static image
+- **Monthly Reset**: Credits reset monthly, subscriber limits are inclusive of free videos
 
 ---
 
@@ -850,6 +854,25 @@ Available in 70+ countries including US, Canada, Australia, Japan, and many othe
 - **Location**: Dice icon in interface
 - **Purpose**: Generate random reference suggestions
 - **Best For**: Overcoming creative blocks, discovering new combinations
+
+#### 4. Gallery System
+- **Access**: Browse community creations within Whisk interface
+- **Purpose**: Discover inspiration from other users' creations
+- **"Make it your own"**: Click to remix any gallery image as your starting point
+- **Community Sharing**: Explore trending styles and popular combinations
+
+#### 5. Share Cards & Collaboration
+- **Share Link Generation**: Click share icon on any generated image
+- **Recipe Sharing**: Share links include the "recipe" (your creative process)
+- **Asset Control**: Choose whether to include or hide ingredients (source images)
+- **Public Access**: Anyone with share link can view and remix
+- **Collaborative Remixing**: Others can build upon your shared creations
+
+#### 6. Refine Mode
+- **Purpose**: Make smaller to medium changes while staying close to original
+- **Use Cases**: "Make the hat blue", "Add a sunset background"
+- **Process**: Gemini updates prompts based on refinement guidance
+- **Advantage**: Preserves overall composition while adjusting specific elements
 
 ### Professional Workflows
 
@@ -981,10 +1004,36 @@ Available in 70+ countries including US, Canada, Australia, Japan, and many othe
 - **Gallery**: Browse community creations within Whisk
 - **Sharing**: Use share links to collaborate and get feedback
 
+#### **Share Link Behavior**
+- **Loading**: Shared creations load directly in recipients' Whisk interface
+- **Remixing**: Recipients can immediately start remixing shared content
+- **Deletion Impact**: 
+  - If you delete a shared image, the link shows "content no longer available"
+  - If you delete source assets, existing remixes by others retain those assets
+  - Share links remain functional even if ingredients are deleted
+
 ### Learning Resources
 - **Official Tutorials**: Available within the Whisk interface
 - **Community Guides**: Shared by experienced users
 - **Video Tutorials**: Available on various platforms
+
+---
+
+```
+     ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗██████╗     ██████╗ ██╗   ██╗
+    ██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗╚██╗ ██╔╝
+    ██║     ██████╔╝█████╗  ███████║   ██║   █████╗  ██║  ██║    ██████╔╝ ╚████╔╝ 
+    ██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══╝  ██║  ██║    ██╔══██╗  ╚██╔╝  
+    ╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗██████╔╝    ██████╔╝   ██║   
+     ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝     ╚═════╝    ╚═╝   
+                                                                                   
+    ███████╗███╗   ██╗██╗   ██╗██████╗ ██████╗  ██████╗  ██████╗ ████████╗       
+    ██╔════╝████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝       
+    ███████╗██╔██╗ ██║██║   ██║██████╔╝██████╔╝██║   ██║██║   ██║   ██║          
+    ╚════██║██║╚██╗██║██║   ██║██╔══██╗██╔══██╗██║   ██║██║   ██║   ██║          
+    ███████║██║ ╚████║╚██████╔╝██████╔╝██║  ██║╚██████╔╝╚██████╔╝   ██║          
+    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝          
+```
 
 ---
 
